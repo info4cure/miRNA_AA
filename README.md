@@ -1,4 +1,4 @@
-TRABAJO DE FIN DE GRADO  
+`#RRGGBB`TRABAJO DE FIN DE GRADO  
 Universidad de Córdoba  
 Grado de Medicina - Facultad de Medicina y Enfermería  
 Curso académico 2022-2023    
