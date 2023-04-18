@@ -1,5 +1,5 @@
-TRABAJO DE FIN DE GRADO\t
-Universidad de Córdoba
+TRABAJO DE FIN DE GRADO  
+Universidad de Córdoba  
 Grado de Medicina - Facultad de Medicina y Enfermería
 Curso académico 2022-2023
 Título: Análisis funcional de los perfiles de expresión de micro RNAs circulantes en pacientes con alopecia areata
